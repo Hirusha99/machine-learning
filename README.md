@@ -1,5 +1,5 @@
-#Machine Learning Basic projects
+# Machine Learning Basic projects
 
-CNN
-Regression
-Multivariate Regression
+#### CNN
+#### Regression
+#### Multivariate Regression
